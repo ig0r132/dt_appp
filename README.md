@@ -14,4 +14,4 @@ After you clone this project:
 * Run the command bin/cake server -p 8765 in Terminal;
 * Access http://localhost:8765 to see the application.
 
-Or you can access <'Heroku Link'>
+Or you can access [Heroku Link](https://dry-atoll-29236.herokuapp.com/)
